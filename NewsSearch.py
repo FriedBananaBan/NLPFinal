@@ -8,10 +8,10 @@ first = True
 count = 0
 nlp = spacy.load("en_core_web_sm")
 
-file = sys.argv[2]
+file = sys.argv[1]
 article_count = 0
 if len(sys.argv) == 3:
-    article_count = int(sys.argv[3])
+    article_count = int(sys.argv[2])
 
 # Used to get nested nps
 def extract_sub_phrases(chunk):
