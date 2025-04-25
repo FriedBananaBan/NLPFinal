@@ -1,0 +1,526 @@
+[
+  {
+    "query": "covid pandemic",
+    "single_word_results": [
+      {
+        "score": 1.0,
+        "headline": "14 People Evacuated To U.S. From Japan Test Positive For Coronavirus",
+        "link": "https://www.huffpost.com/entry/diamond-princess-passengers-positive-coronavirus_n_5e4aa1d4c5b64433c619ad64"
+      },
+      {
+        "score": 1.0,
+        "headline": "Deal Or No Deal: COVID-19 Aid Tests Biden 'Work Together' Plea",
+        "link": "https://www.huffpost.com/entry/joe-biden-covid-19-relief_n_6016ad3cc5b6aa4bad34e42b"
+      },
+      {
+        "score": 1.0,
+        "headline": "SAG Awards 2021: Here Are All The Winners",
+        "link": "https://www.huffpost.com/entry/sag-awards-winners-2021_n_606a173ac5b68872efe7fa76"
+      },
+      {
+        "score": 1.0,
+        "headline": "Here's What A Civilian Climate Corps Could Look Like",
+        "link": "https://www.huffpost.com/entry/civilian-climate-corps-biden-plan_n_606f6a7ec5b62ff28f406914"
+      },
+      {
+        "score": 1.0,
+        "headline": "The Fight For A Key Biden Health Care Policy Is Personal For This House Democrat",
+        "link": "https://www.huffpost.com/entry/home-care-elderly-disabilities-dingell_n_60f4381ae4b01ba8eed71236"
+      }
+    ],
+    "noun_phrase_results": []
+  },
+  {
+    "query": "presidential election",
+    "single_word_results": [
+      {
+        "score": 1.0,
+        "headline": "Reminder: GOP Target Rod Rosenstein Is A Lifelong Republican Trump Appointed",
+        "link": "https://www.huffingtonpost.com/entry/rod-rosenstein-is-republican_us_5ae9d498e4b06748dc8e96b9"
+      },
+      {
+        "score": 1.0,
+        "headline": "We Probed Sexual Misconduct Claims Against Journalist Al Giordano. Here's What We Found.",
+        "link": "https://www.huffingtonpost.com/entry/al-giordano-sexual-harassment-school-of-authentic-journalism_us_5aeb5113e4b041fd2d24580c"
+      },
+      {
+        "score": 1.0,
+        "headline": "NY Attorney General Eric Schneiderman Resigns Amid Abuse Allegations",
+        "link": "https://www.huffingtonpost.com/entry/eric-schneiderman-resigns_us_5af0e552e4b041fd2d2a10b2"
+      },
+      {
+        "score": 1.0,
+        "headline": "Michael Cohen Was Selling Access To Trump, Says Group That Paid Into His Shell Company",
+        "link": "https://www.huffingtonpost.com/entry/michael-cohen-essential-consultants_us_5af33439e4b04d3b2c8ffe23"
+      },
+      {
+        "score": 1.0,
+        "headline": "Trump Paid More Than $100,000 To Cohen, Financial Disclosure Confirms",
+        "link": "https://www.huffingtonpost.com/entry/trump-payment-to-cohen-revealed_us_5afc7183e4b0a59b4dffe7f4"
+      }
+    ],
+    "noun_phrase_results": [
+      {
+        "score": 1.0,
+        "headline": "Reminder: GOP Target Rod Rosenstein Is A Lifelong Republican Trump Appointed",
+        "link": "https://www.huffingtonpost.com/entry/rod-rosenstein-is-republican_us_5ae9d498e4b06748dc8e96b9"
+      },
+      {
+        "score": 1.0,
+        "headline": "GOP Senator Contradicts Trump On Ronny Jackson Allegations",
+        "link": "https://www.huffingtonpost.com/entry/johnny-isakson-ronny-jackson_us_5ae9c356e4b022f71a03f1db"
+      },
+      {
+        "score": 1.0,
+        "headline": "Giuliani Says Trump Repaid Lawyer For $130,000 Payment To Stormy Daniels",
+        "link": "https://www.huffingtonpost.com/entry/rudy-giuliani-trump-stormy-daniels_us_5aea6adee4b00f70f0eefbea"
+      },
+      {
+        "score": 1.0,
+        "headline": "Tennessee Officials Are Trying To Get To The Bottom Of An Election Night Cyberattack",
+        "link": "https://www.huffingtonpost.com/entry/knox-county-tennessee-cyber-attack_us_5aeb28d7e4b0ab5c3d62bcb1"
+      },
+      {
+        "score": 1.0,
+        "headline": "Is The Left Having A Senior Moment?",
+        "link": "https://www.huffingtonpost.com/entry/liverals-senior-citizens-aarp-greyroots-action_us_5aeb17a7e4b041fd2d23add1"
+      }
+    ]
+  },
+  {
+    "query": "climate change",
+    "single_word_results": [
+      {
+        "score": 1.0,
+        "headline": "How The ACORN Scandal Seeded Today's Nightmare Politics",
+        "link": "https://www.huffingtonpost.com/entry/2009-acorn-scandal_us_5ae23fa6e4b02baed1b86696"
+      },
+      {
+        "score": 1.0,
+        "headline": "A New Farming Technique Using Drastically Less Water Is Catching On",
+        "link": "https://www.huffingtonpost.com/entry/farming-technique-using-drastically-less-water-is-catching-on_us_5af41876e4b0859d11d0ae35"
+      },
+      {
+        "score": 1.0,
+        "headline": "Why Isn't There A Birth Control Emoji?",
+        "link": "https://www.huffingtonpost.com/entry/why-isnt-there-a-birth-control-emoji_us_5afc5e5ee4b0779345d51dc6"
+      },
+      {
+        "score": 1.0,
+        "headline": "Cynthia Nixon's 'Fix Our Subway' Ads Shred Cuomo's MTA, Commuters Rejoice",
+        "link": "https://www.huffingtonpost.com/entry/cynthia-nixon-mta-subway-ads-andrew-cuomo_us_5afda284e4b0a59b4e019369"
+      },
+      {
+        "score": 1.0,
+        "headline": "World's Largest King Penguin Colony Has Mysteriously Shrunk By 90 Percent",
+        "link": "https://www.huffpost.com/entry/king-penguin-colony-collapse-ile-aux-conchon_n_5b6009b2e4b0de86f49a759b"
+      }
+    ],
+    "noun_phrase_results": [
+      {
+        "score": 1.0,
+        "headline": "U.S. Climate Scientists Flee For France To \u2018Make Our Planet Great Again\u2019",
+        "link": "https://www.huffingtonpost.com/entry/us-climate-scientists-make-our-planet-great-again-france_us_5aead46ee4b06748dc8fe1ac"
+      },
+      {
+        "score": 1.0,
+        "headline": "A Trump Plan To Nationalize Coal Plants Could Be A Surprise Gift To Climate Hawks",
+        "link": "https://www.huffingtonpost.com/entry/trump-nationalize-coal_us_5ae8d8e9e4b06748dc8d34b4"
+      },
+      {
+        "score": 1.0,
+        "headline": "FEMA's Latest Excuse For Why It's Ignoring Climate Change: It Forgot",
+        "link": "https://www.huffingtonpost.com/entry/fema-strategic-plan-climate-change_us_5ae9d3a3e4b06748dc8e9515"
+      },
+      {
+        "score": 1.0,
+        "headline": "Obama Backs Sen. Dianne Feinstein As She Faces Challenge From The Left",
+        "link": "https://www.huffingtonpost.com/entry/obama-dianne-feinstein_us_5aecc0e2e4b0c4f1932287c9"
+      },
+      {
+        "score": 1.0,
+        "headline": "How The ACORN Scandal Seeded Today's Nightmare Politics",
+        "link": "https://www.huffingtonpost.com/entry/2009-acorn-scandal_us_5ae23fa6e4b02baed1b86696"
+      }
+    ]
+  },
+  {
+    "query": "stock market crash",
+    "single_word_results": [
+      {
+        "score": 0.9204,
+        "headline": "Stocks Sway On Wall Street As Oil Slides To $100 Per Barrel",
+        "link": "https://www.huffpost.com/entry/wall-street-stock-market-oil_n_622f7956e4b0b6282026963f"
+      },
+      {
+        "score": 0.9204,
+        "headline": "Texas Lt. Gov. Ripped For Saying Seniors May Be Willing To Die For The Economy",
+        "link": "https://www.huffpost.com/entry/dan-patrick-sacrifice-grandparents_n_5e796dd8c5b6f5b7c549df25"
+      },
+      {
+        "score": 0.8663,
+        "headline": "U.S. Marks 20 Years Since 9/11 In Shadow Of Afghan War's End",
+        "link": "https://www.huffpost.com/entry/sept-11-20th-anniversary_n_613caa40e4b090b79e8459ee"
+      },
+      {
+        "score": 0.8296,
+        "headline": "Trump Blames Federal Reserve As 'Only Problem' In U.S. Economy",
+        "link": "https://www.huffpost.com/entry/trump-blames-federal-reserve-as-only-problem-in-us-economy_n_5c210f35e4b08aaf7a8b7045"
+      },
+      {
+        "score": 0.8017,
+        "headline": "This Jobs Program Just Might Get People Back To Work",
+        "link": "https://www.huffingtonpost.com/entry/this-jobs-program-just-might-get-people-back-to-work_us_5af30a1be4b013a9682bfbd9"
+      }
+    ],
+    "noun_phrase_results": [
+      {
+        "score": 0.9451,
+        "headline": "Trump Blames Federal Reserve As 'Only Problem' In U.S. Economy",
+        "link": "https://www.huffpost.com/entry/trump-blames-federal-reserve-as-only-problem-in-us-economy_n_5c210f35e4b08aaf7a8b7045"
+      },
+      {
+        "score": 0.4973,
+        "headline": "This Is What Happens When Stocks Enter A Bear Market",
+        "link": "https://www.huffpost.com/entry/bear-market-explainer_l_5e6aa87cc5b6747ef119abe9"
+      },
+      {
+        "score": 0.3985,
+        "headline": "A Trump-Tied Law Firm \u2018Played Both Sides Of The Ledger\u2019 During Oil Market Crash",
+        "link": "https://www.huffpost.com/entry/bhfs-lobbying-firm-saudi-arabia-oil_n_5f8617ebc5b681f7da1c9319"
+      },
+      {
+        "score": 0.2976,
+        "headline": "Far-Right And Anti-Establishment Parties Set To Form Italy's New Government",
+        "link": "https://www.huffingtonpost.com/entry/far-right-parties-form-italy-new-governmen_us_5af4598ce4b09bb419e5a62e"
+      },
+      {
+        "score": 0.2976,
+        "headline": "Justice Department Drops Probes Of 3 Senators Who Sold Stock After Coronavirus Briefings",
+        "link": "https://www.huffpost.com/entry/justice-department-drops-senators-investigation-coronavirus-stock-sales_n_5ecd99b8c5b62a139066be7b"
+      }
+    ]
+  },
+  {
+    "query": "artificial intelligence",
+    "single_word_results": [
+      {
+        "score": 1.0,
+        "headline": "CEO Mark Zuckerberg Says Facebook Will Rank News Outlets By Trustworthiness",
+        "link": "https://www.huffingtonpost.com/entry/mark-zuckerberg-facebook-media-trust_us_5ae90e25e4b00f70f0ed0725"
+      },
+      {
+        "score": 1.0,
+        "headline": "Zach Woods Is Officially The MVP Of 'Silicon Valley'",
+        "link": "https://www.huffingtonpost.com/entry/zach-woods-silicon-valley_us_5af5fa16e4b0e57cd9f97299"
+      },
+      {
+        "score": 1.0,
+        "headline": "Cold Case Team Shines New Light On Betrayal Of Anne Frank",
+        "link": "https://www.huffpost.com/entry/cold-case-anne-frank-betrayal_n_61e5a190e4b0d8b6656ed1b4"
+      },
+      {
+        "score": 1.0,
+        "headline": "When Your iPhone Reinforces Sexism",
+        "link": "https://www.huffingtonpost.com/entry/iphone-siri-alexa-sexism_us_5ad9e671e4b03c426dadb2e8"
+      },
+      {
+        "score": 1.0,
+        "headline": "Amazon Is Selling Cops Its Facial Recognition Tool. That\u2019s A Bad, Potentially Racist Move.",
+        "link": "https://www.huffingtonpost.com/entry/amazon-is-selling-cops-its-facial-recognition-tool-thats-a-bad-potentially-racist-move_us_5b0478fce4b05f0fc84289ae"
+      }
+    ],
+    "noun_phrase_results": [
+      {
+        "score": 1.0,
+        "headline": "CEO Mark Zuckerberg Says Facebook Will Rank News Outlets By Trustworthiness",
+        "link": "https://www.huffingtonpost.com/entry/mark-zuckerberg-facebook-media-trust_us_5ae90e25e4b00f70f0ed0725"
+      },
+      {
+        "score": 1.0,
+        "headline": "Unions Face The Fight Of Their Lives To Protect American Workers",
+        "link": "https://www.huffingtonpost.com/entry/american-workers-jobs-inequality-union-automation_us_5ae043f9e4b061c0bfa32e0c"
+      },
+      {
+        "score": 1.0,
+        "headline": "When Your iPhone Reinforces Sexism",
+        "link": "https://www.huffingtonpost.com/entry/iphone-siri-alexa-sexism_us_5ad9e671e4b03c426dadb2e8"
+      },
+      {
+        "score": 1.0,
+        "headline": "Zach Woods Is Officially The MVP Of 'Silicon Valley'",
+        "link": "https://www.huffingtonpost.com/entry/zach-woods-silicon-valley_us_5af5fa16e4b0e57cd9f97299"
+      },
+      {
+        "score": 1.0,
+        "headline": "Stephanie Kelton Has The Biggest Idea In Washington",
+        "link": "https://www.huffingtonpost.com/entry/stephanie-kelton-economy-washington_us_5afee5eae4b0463cdba15121"
+      }
+    ]
+  },
+  {
+    "query": "global economic crisis",
+    "single_word_results": [
+      {
+        "score": 1.0,
+        "headline": "Malady Mongers: How Drug Companies Sell Treatments By Inventing Diseases",
+        "link": "https://www.huffpost.com/entry/malady-mongers-how-drug-companies-sell-treatments-by-inventing-diseases_n_5b1ab5e4e4b0adfb8268c762"
+      },
+      {
+        "score": 1.0,
+        "headline": "Joe Biden's Rivals In Democratic Race Reject His \u2018Middle Ground\u2019 On Climate Policy",
+        "link": "https://www.huffpost.com/entry/joe-biden-democratic-rivals-climate-change-middle-ground_n_5cd828dce4b054da4e8af616"
+      },
+      {
+        "score": 1.0,
+        "headline": "China Strikes Back With Plans To Hike Tariffs On $60 Billion Of U.S. Imports",
+        "link": "https://www.huffpost.com/entry/china-strikes-back-with-plans-to-hike-tariffs-on-60-billion-of-us-imports_n_5cd96f2fe4b0796a95df7a6a"
+      },
+      {
+        "score": 1.0,
+        "headline": "Trump Administration Refuses To Disclose Which Businesses Received $500 Billion In Government Bailout",
+        "link": "https://www.huffpost.com/entry/trump-ppp-loan-businesses-secret_n_5ee26407c5b6fdbc0a8e59ac"
+      },
+      {
+        "score": 1.0,
+        "headline": "Aid Groups, Friendly Countries Scramble To Help Ukrainians Under Assault By Russia",
+        "link": "https://www.huffpost.com/entry/ukraine-aid-refugees_n_621a875ce4b0d1388f15c877"
+      }
+    ],
+    "noun_phrase_results": [
+      {
+        "score": 0.9465,
+        "headline": "Spain General Election: Far-Right Vox Party Poised To Enter Parliament",
+        "link": "https://www.huffpost.com/entry/spain-2019-general-election-far-right_n_5cc440cbe4b04eb7ff964c68"
+      },
+      {
+        "score": 0.3625,
+        "headline": "Economic Storm Clouds Hover Over Trump And Global Leaders At G-7 Summit",
+        "link": "https://www.huffpost.com/entry/trump-g-7-summit-arrives_n_5d612a60e4b02cc97c8e42dd"
+      },
+      {
+        "score": 0.3625,
+        "headline": "China To Lift Punitive Tariffs On U.S. Soybeans, Pork",
+        "link": "https://www.huffpost.com/entry/china-lifts-tariffs-soybeans-pork_n_5d7bc68ce4b03b5fc882b67f"
+      },
+      {
+        "score": 0.3625,
+        "headline": "U.S. Coronavirus Death Toll Climbs To 6, All In Washington State",
+        "link": "https://www.huffpost.com/entry/coronavirus-deaths-update-washington_n_5e5d5c1fc5b67ed38b36aafe"
+      },
+      {
+        "score": 0.3625,
+        "headline": "Trump Administration Refuses To Disclose Which Businesses Received $500 Billion In Government Bailout",
+        "link": "https://www.huffpost.com/entry/trump-ppp-loan-businesses-secret_n_5ee26407c5b6fdbc0a8e59ac"
+      }
+    ]
+  },
+  {
+    "query": "nba finals",
+    "single_word_results": [
+      {
+        "score": 1.0,
+        "headline": "Veterans Group Slams Trump\u2019s Memorial Day Tweet",
+        "link": "https://www.huffpost.com/entry/the-morning-email-rudy-giuliani-birthday-boos_n_5b0d2b2ae4b0568a880e7ce6"
+      },
+      {
+        "score": 1.0,
+        "headline": "Dodgers Stun Red Sox In Longest World Series Game Ever",
+        "link": "https://www.huffpost.com/entry/dodgers-stun-red-sox-in-longest-world-series-game-ever_n_5bd46440e4b055bc948c63a2"
+      },
+      {
+        "score": 0.8007,
+        "headline": "Kobe Bryant One Of 8 Finalists For Basketball Hall Of Fame",
+        "link": "https://www.huffpost.com/entry/kobe-bryant-basketball-hall-of-fame_n_5e47398bc5b64d860fcaefb9"
+      },
+      {
+        "score": 0.7703,
+        "headline": "Simona Halep Beats Serena Williams In Wimbledon Final",
+        "link": "https://www.huffpost.com/entry/simona-halep-wins-serena-williams-wimbledon_n_5d29e5b7e4b0bd7d1e1d000b"
+      },
+      {
+        "score": 0.7703,
+        "headline": "Khlo\u00e9 Kardashian Explains How She Chose True As Her Daughter's Name",
+        "link": "https://www.huffingtonpost.com/entry/khlo%C3%A9-kardashian-explains-how-she-chose-true-as-her-daughters-name_us_5afb0a00e4b044dfffb649dd"
+      }
+    ],
+    "noun_phrase_results": [
+      {
+        "score": 1.0,
+        "headline": "Veterans Group Slams Trump\u2019s Memorial Day Tweet",
+        "link": "https://www.huffpost.com/entry/the-morning-email-rudy-giuliani-birthday-boos_n_5b0d2b2ae4b0568a880e7ce6"
+      },
+      {
+        "score": 1.0,
+        "headline": "Dodgers Stun Red Sox In Longest World Series Game Ever",
+        "link": "https://www.huffpost.com/entry/dodgers-stun-red-sox-in-longest-world-series-game-ever_n_5bd46440e4b055bc948c63a2"
+      },
+      {
+        "score": 1.0,
+        "headline": "Kobe Bryant One Of 8 Finalists For Basketball Hall Of Fame",
+        "link": "https://www.huffpost.com/entry/kobe-bryant-basketball-hall-of-fame_n_5e47398bc5b64d860fcaefb9"
+      }
+    ]
+  },
+  {
+    "query": "space exploration",
+    "single_word_results": [
+      {
+        "score": 1.0,
+        "headline": "Liftoff! NASA Launches Parker Solar Probe To 'Touch The Sun'",
+        "link": "https://www.huffpost.com/entry/nasa-parker-solar-probe-launch_n_5b6fe8afe4b0ae32af98c6fe"
+      },
+      {
+        "score": 1.0,
+        "headline": "The Lithium War Next Door",
+        "link": "https://www.huffpost.com/entry/piedmont-lithium-mine_n_62869f4be4b0933e7362d58c"
+      },
+      {
+        "score": 0.9722,
+        "headline": "NASA Looking Toward Manned Mission To Mars 'Sometime In The 2030s'",
+        "link": "https://www.huffpost.com/entry/nasa-looking-toward-manned-mission-to-mars-sometime-in-the-2030s_n_5bfaf0e9e4b0eb6d930fac96"
+      },
+      {
+        "score": 0.9457,
+        "headline": "Moon Holds Much More Water Than Previously Believed",
+        "link": "https://www.huffpost.com/entry/water-moon-surface_n_5f972df3c5b63fd49cef2155"
+      },
+      {
+        "score": 0.8739,
+        "headline": "How The Interior Department Got Swamped",
+        "link": "https://www.huffpost.com/entry/trump-interior-department-revolving-door_n_5ddbf08ee4b00149f720e179"
+      }
+    ],
+    "noun_phrase_results": [
+      {
+        "score": 1.0,
+        "headline": "Buzz Aldrin Tells Trump NASA Program Is 'Great Disappointment'",
+        "link": "https://www.huffpost.com/entry/trump-buzz-aldrin-disappointed-nasa_n_5d3349cbe4b0419fd32da6e7"
+      },
+      {
+        "score": 1.0,
+        "headline": "U.S. Astronaut To Return On Russian Capsule Despite Heightened Tensions Over War",
+        "link": "https://www.huffpost.com/entry/astronaut-mark-vande-hei-iss_n_62305f72e4b0b6282027f633"
+      },
+      {
+        "score": 1.0,
+        "headline": "'Safety Is Always First': NASA Reschedules Artemis Moon Mission To Saturday",
+        "link": "https://www.huffpost.com/entry/nasa-artemis-moon-mission_n_630d7530e4b063d5e61e0179"
+      }
+    ]
+  },
+  {
+    "query": "mental health awareness",
+    "single_word_results": [
+      {
+        "score": 1.0,
+        "headline": "Frightened Rabbit Singer Scott Hutchison Dead At 36",
+        "link": "https://www.huffingtonpost.com/entry/frightened-rabbit-singer-scott-hutchison-dead-at-36_us_5af59256e4b00d7e4c19d7ee"
+      },
+      {
+        "score": 1.0,
+        "headline": "Mom Thwarts Potential School Shooting After Alerting Cops To Son\u2019s Plans",
+        "link": "https://www.huffpost.com/entry/mom-teen-arrested-school-shooting-columbine-washington_n_5d837842e4b0957256b23b77"
+      },
+      {
+        "score": 1.0,
+        "headline": "SunChips\u2019 Failed Noisy Compostable Packaging Gets The Last Laugh",
+        "link": "https://www.huffpost.com/entry/sun-chips-compostable-bag_n_5e25f7b6c5b674e44b9c5aab"
+      },
+      {
+        "score": 1.0,
+        "headline": "A \u2018Bill Of Rights\u2019 Aims To Keep Child Athletes Safe From Sex Abuse As Olympics Begin",
+        "link": "https://www.huffpost.com/entry/olympics-child-athlete-bill-of-rights-sex-abuse_n_60f9d8a0e4b09f2b238be598"
+      },
+      {
+        "score": 1.0,
+        "headline": "California School First In The Nation To Be Digitally Mapped For First Responders",
+        "link": "https://www.huffingtonpost.com/entry/california-school-first-in-the-nation-to-be-digitally_us_5ae9f02ce4b06622d15db396"
+      }
+    ],
+    "noun_phrase_results": [
+      {
+        "score": 0.1875,
+        "headline": "Kanye West Talks About Getting Liposuction And Battling An Opioid Addiction",
+        "link": "https://www.huffingtonpost.com/entry/kanye-west-talks-about-getting-liposuction-and-battling-an-opioid-addiction_us_5ae9acfee4b022f71a03b0f2"
+      },
+      {
+        "score": 0.1875,
+        "headline": "GOP Senator Contradicts Trump On Ronny Jackson Allegations",
+        "link": "https://www.huffingtonpost.com/entry/johnny-isakson-ronny-jackson_us_5ae9c356e4b022f71a03f1db"
+      },
+      {
+        "score": 0.1875,
+        "headline": "How A FUBU Jersey On 'Atlanta' Reveals The Unique Pain Black Kids Experience At School",
+        "link": "https://www.huffingtonpost.com/entry/atlanta-season-2-episode-10_us_5aec989ee4b041fd2d267334"
+      },
+      {
+        "score": 0.1875,
+        "headline": "These Towns Are Trying Out A Basic-Income Scheme And It's Already Changing Lives",
+        "link": "https://www.huffingtonpost.com/entry/ontario-basic-income_us_5aeac0e0e4b06748dc8fb7a5"
+      },
+      {
+        "score": 0.1875,
+        "headline": "Margot Kidder, Actress Who Played Lois Lane In 'Superman,' Dead At 69",
+        "link": "https://www.huffingtonpost.com/entry/margot-kidder-lois-lane-dead-dies_us_5af9bd81e4b0200bcab7a375"
+      }
+    ]
+  },
+  {
+    "query": "electric vehicles",
+    "single_word_results": [
+      {
+        "score": 1.0,
+        "headline": "It\u2019s Time For America To Get Serious About Fixing The Trains",
+        "link": "https://www.huffpost.com/entry/coronavirus-trains-travel-climate-change_n_5ef08f5fc5b627efb3967e23"
+      },
+      {
+        "score": 1.0,
+        "headline": "Companies Are Making Major Climate Pledges. Here\u2019s What They Really Mean.",
+        "link": "https://www.huffpost.com/entry/companies-climate-pledges-what-they-mean_n_5f7b6237c5b66fab25dc3079"
+      },
+      {
+        "score": 1.0,
+        "headline": "Carbon Monoxide Poisoning Leaves 2 Dead, Several Hospitalized As Texans Try To Stay Warm",
+        "link": "https://www.huffpost.com/entry/carbon-monoxide-poisoning-texas-winter-weather_n_602bbf5bc5b6d667582f7576"
+      },
+      {
+        "score": 1.0,
+        "headline": "As States Thwart Climate Progress, Progressives Pitch A Lifeline To Green Cities",
+        "link": "https://www.huffpost.com/entry/green-new-deal-cities_n_607d8f3ce4b051555027d81a"
+      },
+      {
+        "score": 1.0,
+        "headline": "Joe Biden Endorses Deal On Infrastructure With Bipartisan Group Of Senators",
+        "link": "https://www.huffpost.com/entry/infrastructure-joe-biden_n_60d49099e4b0b6b5a16327d7"
+      }
+    ],
+    "noun_phrase_results": [
+      {
+        "score": 1.0,
+        "headline": "Elon Musk\u2019s Boring Company To Build High-Speed Transit Network In Chicago",
+        "link": "https://www.huffpost.com/entry/elon-musk-boring-company-chicago_n_5b21f17ce4b09d7a3d7a255a"
+      },
+      {
+        "score": 1.0,
+        "headline": "Four Automakers Strike Emissions Deal With California, Defying Trump Admin.",
+        "link": "https://www.huffpost.com/entry/automakers-strike-emissions-deal-california_n_5d399dede4b004b6adbbd031"
+      },
+      {
+        "score": 1.0,
+        "headline": "How Norway Convinced Drivers To Switch To Electric Cars",
+        "link": "https://www.huffpost.com/entry/norway-drivers-electric-cars_n_5e94ac91c5b6f0317322b939"
+      },
+      {
+        "score": 1.0,
+        "headline": "As States Thwart Climate Progress, Progressives Pitch A Lifeline To Green Cities",
+        "link": "https://www.huffpost.com/entry/green-new-deal-cities_n_607d8f3ce4b051555027d81a"
+      },
+      {
+        "score": 1.0,
+        "headline": "Joe Biden Endorses Deal On Infrastructure With Bipartisan Group Of Senators",
+        "link": "https://www.huffpost.com/entry/infrastructure-joe-biden_n_60d49099e4b0b6b5a16327d7"
+      }
+    ]
+  }
+]
